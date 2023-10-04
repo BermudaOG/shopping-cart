@@ -1,0 +1,7 @@
+.common-button {
+  background-color: #090088;
+  color: #fff;
+  border: 3px groove #5c5c5c;
+  padding: 10px 20px;
+  cursor: pointer;
+}
