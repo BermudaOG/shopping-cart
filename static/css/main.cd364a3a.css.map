@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.cd364a3a.css","mappings":"AAAA,eACE,wBAAyB,CAEzB,yBAA0B,CAD1B,UAAW,CAGX,cAAe,CADf,iBAEF","sources":["styles.css"],"sourcesContent":[".common-button {\n  background-color: #090088;\n  color: #fff;\n  border: 3px groove #5c5c5c;\n  padding: 10px 20px;\n  cursor: pointer;\n}"],"names":[],"sourceRoot":""}
