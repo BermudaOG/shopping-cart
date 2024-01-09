@@ -1,0 +1,8 @@
+{
+  "transform": {
+    "^.+\\.js$": "babel-jest"
+  },
+  "moduleNameMapper": {
+    "^\\./(.*)$": "$1"
+  }
+}
